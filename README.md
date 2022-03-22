@@ -11,9 +11,8 @@ Me chamo Artur e gostaria de me apresentar.
   - 🎮 Apaixonado por técnologia da informação
   - 🎸 Músico amador
   - 📭 artur.faiotto@gmail.com
-  - 💬 Como foi seu dia, vamos conversar?
   - 😀 Pronome ele/dele
-  - ⏳ Desde 1991
+  - ⏰ Desde 1991
 
 <h1> 
    Um breve resumo:
