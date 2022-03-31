@@ -29,6 +29,7 @@ Me chamo Artur e gostaria de me apresentar.
 </h1>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="Artur-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg">
   <img align="center" alt="Artur-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Artur-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Artur-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
